@@ -23,3 +23,7 @@ touch README.md
 ##Import code from an old repository
 
 *You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
+
+###just testing to edit this readme file
+.test no1
+.test no2
